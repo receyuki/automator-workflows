@@ -5,6 +5,11 @@ Some useful workflows
 - [Remove exif](#remove-exif)
 
 ### Remove exif
-#### [Exiftool](https://sno.phy.queensu.ca/~phil/exiftool/install.html#OSX) is required.
 Removing Exif data from pictures with [Exiftool](https://sno.phy.queensu.ca/~phil/exiftool/install.html#OSX).
+** Please make sure [Exiftool](https://sno.phy.queensu.ca/~phil/exiftool/install.html#OSX)  is installed. **
+Installation:
+```
+brew install exiftool
+```
+
 
